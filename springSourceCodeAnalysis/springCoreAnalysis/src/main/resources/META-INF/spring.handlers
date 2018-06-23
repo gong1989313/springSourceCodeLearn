@@ -1,0 +1,2 @@
+http\://gxq.learn/schema/test=com.gxq.learn.spring.bean.factory.custom.UserNamespaceHandler
+http\://test.hatter.me/schema/test=com.gxq.learn.spring.bean.factory.custom.TestNamespaceHandler
