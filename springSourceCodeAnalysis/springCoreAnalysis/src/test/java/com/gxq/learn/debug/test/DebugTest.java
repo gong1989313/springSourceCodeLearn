@@ -1,5 +1,6 @@
 package com.gxq.learn.debug.test;
 
+
 public class DebugTest {
 
 	public static void main(String[] args) {
@@ -8,6 +9,7 @@ public class DebugTest {
 			sum+=i;
 		}
 		System.out.println(sum);
+		//Bag b = new Bag(1);
 	}
 
 }
