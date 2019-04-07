@@ -16,6 +16,7 @@ public class UserController extends AbstractController {
 	@Override
 	protected ModelAndView handleRequestInternal(HttpServletRequest request, HttpServletResponse response)
 			throws Exception {
+		
 		List<User> userList = new ArrayList<User>();
 		User userA = new User();
 		User userB = new User();
